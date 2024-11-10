@@ -13,7 +13,7 @@ const Hero = () => {
       <div className='text-[70px] sm:text-[80px] font-bold leading-tight flex justify-center items-center'>
         <div>
          
-          <p data-aos="zoom-in-up">Hi <span className='text-purple-800'>I'am</span></p>
+          <p data-aos="zoom-in-up">Hi <span className='text-purple-800'>I'm</span></p>
           <p className='text-blue-500' data-aos="zoom-in-up">Irshad</p>
           <p className='text-blue-500' data-aos="zoom-in-up">Ahmed</p>
         </div>
